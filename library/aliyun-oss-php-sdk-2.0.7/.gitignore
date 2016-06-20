@@ -1,0 +1,15 @@
+vendor
+composer.lock
+doc
+output
+.idea
+.coveralls.yml
+.travis.yml
+build-phar.sh
+CHANGELOG.md
+composer.json
+LICENSE.md
+README.md
+phpunit.xml
+samples
+tests

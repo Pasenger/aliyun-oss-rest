@@ -1,0 +1,1 @@
+阿里云OSS API封装为REST服务
